@@ -1,0 +1,10 @@
+C:\Users\user\anaconda3\envs\pythonProject2\lib\site-packages\PyInstaller\loader\pyimod03_importers.py:623: UserWarning: mkl-service package failed to import, theref
+ore Intel(R) MKL initialization ensuring its correct out-of-the box operation under condition when Gnu OpenMP had already been loaded by Python process is not assure
+d. Please install mkl-service package, see http://github.com/IntelPython/mkl-service
+  exec(bytecode, module.__dict__)
+ImportError: numpy.core.multiarray failed to import
+Traceback (most recent call last):
+  File "main.py", line 7, in <module>
+    import cv2
+ImportError: numpy.core.multiarray failed to import
+[16708] Failed to execute script main
