@@ -1,0 +1,72 @@
+(pythonProject2) C:\Users\user\PycharmProjects\pythonProject2>conda list
+# packages in environment at C:\Users\user\anaconda3\envs\pythonProject2:
+#
+# Name                    Version                   Build  Channel
+altgraph                  0.17                       py_0
+blas                      1.0                         mkl
+ca-certificates           2020.10.14                    0
+cairo                     1.16.0            hd28d34b_1006    conda-forge
+certifi                   2020.6.20          pyhd3eb1b0_3
+curl                      7.71.1               h4b64cdc_8    conda-forge
+freetype                  2.10.4               h546665d_0    conda-forge
+future                    0.18.2                   py38_1
+gettext                   0.19.8.1          hfbb10ce_1004    conda-forge
+glib                      2.66.2               h0e60522_0    conda-forge
+hdf5                      1.10.4               h7ebc959_0
+icc_rt                    2019.0.0             h0cc432a_1
+icu                       67.1                 h33f27b4_0    conda-forge
+intel-openmp              2020.2                      254
+jpeg                      9d                   h8ffe710_0    conda-forge
+krb5                      1.17.1               hc04afaa_3    conda-forge
+libcurl                   7.71.1               h4b64cdc_8    conda-forge
+libffi                    3.2.1             ha925a31_1007    conda-forge
+libglib                   2.66.2               h35efcdc_0    conda-forge
+libiconv                  1.16                 he774522_0    conda-forge
+libopencv                 4.0.1                hbb9e17c_0
+libpng                    1.6.37               h2a8f88b_0
+libssh2                   1.9.0                hb06d900_5    conda-forge
+libtiff                   4.1.0                h56a325e_1
+lz4-c                     1.9.2                hf4a77e7_3
+m2w64-gcc-libgfortran     5.3.0                         6
+m2w64-gcc-libs            5.3.0                         7
+m2w64-gcc-libs-core       5.3.0                         7
+m2w64-gmp                 6.1.0                         2
+m2w64-libwinpthread-git   5.0.0.4634.697f757               2
+macholib                  1.14                       py_1
+mkl                       2020.2                      256
+mkl-service               2.3.0            py38h1e8a9f7_2    conda-forge
+mkl_fft                   1.2.0            py38h45dec08_0
+mkl_random                1.1.1            py38h47e9c7a_0
+msys2-conda-epoch         20160418                      1
+numpy                     1.19.2           py38hadc3359_0
+numpy-base                1.19.2           py38ha3acd2a_0
+olefile                   0.46               pyh9f0ad1d_1    conda-forge
+opencv                    4.0.1            py38h2a7c758_0
+openjpeg                  2.3.1                h57dd2e7_3    conda-forge
+openssl                   1.1.1h               he774522_0
+pcre                      8.44                 ha925a31_0    conda-forge
+pdf2image                 1.13.1                     py_0    conda-forge
+pefile                    2019.4.18                  py_0
+pillow                    8.0.1            py38h4fa10fc_0
+pip                       20.2.4           py38haa95532_0
+pixman                    0.40.0               h8ffe710_0    conda-forge
+poppler                   20.11.0              h46d2235_0    conda-forge
+poppler-data              0.4.10                        0    conda-forge
+py-opencv                 4.0.1            py38he44ac1e_0
+pycryptodome              3.9.8            py38he774522_0
+pyinstaller               3.6              py38h62dcd97_5
+python                    3.8.5                h5fd99cc_1
+python_abi                3.8                      1_cp38    conda-forge
+pywin32                   227              py38he774522_1
+pywin32-ctypes            0.2.0                 py38_1000
+setuptools                50.3.1           py38haa95532_1
+six                       1.15.0                     py_0
+sqlite                    3.33.0               h2a8f88b_0
+tk                        8.6.10               he774522_1    conda-forge
+vc                        14.1                 h0510ff6_4
+vs2015_runtime            14.16.27012          hf0eaf9b_3
+wheel                     0.35.1                     py_0
+wincertstore              0.2                      py38_0
+xz                        5.2.5                h62dcd97_0
+zlib                      1.2.11               h62dcd97_4
+zstd                      1.4.5                h04227a9_0
